@@ -1,7 +1,5 @@
 /*
 Evin Sierra
-CPSC 1071-006
-MED
 9/15/23
 */
 #include <iostream>
